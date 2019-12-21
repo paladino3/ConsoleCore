@@ -1,0 +1,11 @@
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Lib.deps.json
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Lib.dll
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Lib.pdb
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Interface.dll
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Interface.pdb
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.AssemblyInfo.cs
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.csproj.CopyComplete
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.dll
+C:\Users\rolim\Desktop\consolecore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.pdb

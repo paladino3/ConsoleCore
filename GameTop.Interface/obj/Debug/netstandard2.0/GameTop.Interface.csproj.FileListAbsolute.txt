@@ -1,0 +1,8 @@
+C:\Users\rolim\Desktop\consolecore\GameTop.InterFace\bin\Debug\netstandard2.0\GameTop.Interface.deps.json
+C:\Users\rolim\Desktop\consolecore\GameTop.InterFace\bin\Debug\netstandard2.0\GameTop.Interface.dll
+C:\Users\rolim\Desktop\consolecore\GameTop.InterFace\bin\Debug\netstandard2.0\GameTop.Interface.pdb
+C:\Users\rolim\Desktop\consolecore\GameTop.InterFace\obj\Debug\netstandard2.0\GameTop.Interface.csprojAssemblyReference.cache
+C:\Users\rolim\Desktop\consolecore\GameTop.InterFace\obj\Debug\netstandard2.0\GameTop.Interface.AssemblyInfoInputs.cache
+C:\Users\rolim\Desktop\consolecore\GameTop.InterFace\obj\Debug\netstandard2.0\GameTop.Interface.AssemblyInfo.cs
+C:\Users\rolim\Desktop\consolecore\GameTop.InterFace\obj\Debug\netstandard2.0\GameTop.Interface.dll
+C:\Users\rolim\Desktop\consolecore\GameTop.InterFace\obj\Debug\netstandard2.0\GameTop.Interface.pdb
